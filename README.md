@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/64585806/120313422-e42f4f00-c314-11eb-9804-3401ed13f0fe.png)  
 
-# Ohajiki(Rejected)
-This is my 2021 Swift Student Challenge Submission.
+# Ohajiki
+This is my 2021 Swift Student Challenge Submission(Rejected).
 ## Getting Started
 Download OHAJIKI.playgroundbook and run it!
 ## How to play
